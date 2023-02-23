@@ -2,8 +2,9 @@
 SimpleAudioManager for Unity.
 
 It's best to use it as instance in GameManager.
+I prefer to use this in singletons. 
 
--Functions-
+--Functions--
 
 PlayAudioAtLocation(AudioClip ClipToPlay, float pitch, float volume, Vector3 location) 
 -- Creates Object that makes sound at the location you want.
