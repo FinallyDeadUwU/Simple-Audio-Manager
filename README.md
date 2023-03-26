@@ -4,11 +4,6 @@ SimpleAudioManager for Unity.
 It's best to use it as instance in GameManager.
 I prefer to use this in singletons. 
 
--- [Import] --
-
-You can import this asset in unity via git.
-https://github.com/FinallyDeadUwU/Simple-Audio-Manager.git in Package Manager
-
 -- [Functions] --
 
 PlayAudioAtLocation(AudioClip ClipToPlay, float pitch, float volume, Vector3 location) 
